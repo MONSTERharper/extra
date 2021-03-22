@@ -1,4 +1,4 @@
-Total Error,Date,No grid found,Error during restoration,Untarring error,No slide detected,Can not place slide,Snap Miss,Failed to Lock Slide,Slider did not move,ID
+Total Error,Date,No grid found,Error during restoration,Untarring error,slide thickness error,Can not place slide,Snap Miss,Failed to Lock Slide,Slider did not move,ID
 10,02-11-2021,0,0,10,0,0,0,0,0,S1
 7,02-12-2021,7,0,0,0,0,0,0,0,S1
 3,02-15-2021,3,0,0,0,0,0,0,0,S1
@@ -65,3 +65,7 @@ Total Error,Date,No grid found,Error during restoration,Untarring error,No slide
 0,03-18-2021,0,0,0,0,0,0,0,0,S2
 0,03-18-2021,0,0,0,0,0,0,0,0,S3
 4,03-18-2021,4,0,0,0,0,0,0,0,S4
+0,03-18-2021,0,0,0,0,0,0,0,0,S1
+60,03-18-2021,12,0,0,48,0,0,0,0,S2
+36,03-18-2021,2,0,0,33,0,0,1,0,S3
+76,03-18-2021,9,0,0,66,0,0,1,0,S4
